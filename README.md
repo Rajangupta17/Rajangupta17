@@ -1,7 +1,7 @@
 ![logo](https://github.com/Rajangupta17/Rajangupta17/blob/main/Banner1.gif)
 <h1 align="center">Hi 👋, I'm Rajan Gupta</h1>
 <h3 align="center">I'm from India</h3>
-<img align="right" alt="Data Analyst" width="400" src="https://raw.githubusercontent.com/username/repo/main/assets/giphy.gif">
+<img align="right" alt="Data Analyst" width="400" height="500" src="https://github.com/Rajangupta17/Rajangupta17/blob/main/giphy.gif">
 
 - ## 👨‍💻 About Me
 - 💼 **Passionate Data Analyst** skilled in transforming raw data into actionable insights to support business decisions.  
