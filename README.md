@@ -1,4 +1,4 @@
-![logo]([https://github.com/Rajangupta17/Rajangupta17/blob/main/Banner.mp4](https://github.com/Rajangupta17/Rajangupta17/blob/main/Banner.gif))
+![logo]](https://github.com/Rajangupta17/Rajangupta17/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Rajan Gupta</h1>
 <h3 align="center"> A passionate Data Analyst from India</h3>
 
