@@ -1,7 +1,7 @@
-![logo](https://raw.githubusercontent.com/Rajangupta17/Rajangupta17/main/Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Rajan Gupta</h1>
 <h3 align="center"> A passionate Data Analyst from India</h3>
+![logo](https://raw.githubusercontent.com/Rajangupta17/Rajangupta17/main/Banner.gif)
 
 <!-- Correct GIF link -->
 <img align="right" alt="Data Analyst" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
