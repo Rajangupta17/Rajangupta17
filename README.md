@@ -22,7 +22,7 @@
 
 <p align="left">
   <!-- Email -->
- <a href="rajangupttta9554@gmail.com" target="_blank" rel="noreferrer">
+ <a href="mailto:rajangupttta9554@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" width="40" height="40"/>
 </a>
 
