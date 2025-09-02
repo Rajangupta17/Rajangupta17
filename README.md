@@ -22,7 +22,7 @@
 
 <p align="left">
   <!-- Email -->
- <a href="mailto:rajangupttta9554@gmail.com" target="_blank" rel="noreferrer">
+ <a href="rajangupttta9554@gmail.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" width="40" height="40"/>
 </a>
 
@@ -116,7 +116,7 @@
 ## 📄 My Resume
 
 <p align="left">
-  <a href="YOUR_PDF_LINK_HERE" target="_blank" rel="noreferrer">
+  <a href="https://drive.google.com/file/d/1spozR9qLUDR6l7CUfQSvxvSLUmu6ROQ8/view?usp=sharing" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="resume" width="40" height="40"/>Resume
 </a>
 
