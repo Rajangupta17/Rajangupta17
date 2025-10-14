@@ -118,10 +118,10 @@
 ## 📄 My Resume
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1spozR9qLUDR6l7CUfQSvxvSLUmu6ROQ8/view?usp=sharing" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="resume" width="40" height="40"/>Resume
-</a>
-
+  <a href="https://drive.google.com/file/d/1itm-mhLwKqi4cMOPFgcPzK0l1CKhPHyH/view" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="resume" width="40" height="40"/> Resume
+  </a>
+</p>
 
 
 </p>
@@ -129,7 +129,7 @@
 ## 💻 My Portfolio
 
 <p align="left">
-  <a href="https://your-portfolio-link.com" target="_blank" rel="noreferrer">
+  <a href="https://datascienceportfol.io/datarajan" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="portfolio" width="30" height="30"/> Portfolio
   </a>
 </p>
