@@ -118,8 +118,10 @@
 ## 📄 My Resume
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1itm-mhLwKqi4cMOPFgcPzK0l1CKhPHyH/view" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="resume" width="40" height="40"/> Resume
+  <a href="https://drive.google.com/file/d/1Suymgvh5Lxt7ZjZzOfi9MZvCDWDAmRVQ/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg"
+         alt="resume" width="40" height="40"/>
+    Resume
   </a>
 </p>
 
