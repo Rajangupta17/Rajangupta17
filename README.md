@@ -114,16 +114,16 @@
 
   </a> 
 </p>
-
 ## 📄 My Resume
 
 <p align="left">
-  <a href="https://drive.google.com/file/d/1Suymgvh5Lxt7ZjZzOfi9MZvCDWDAmRVQ/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1iRpDQ3Q8kgwuBFFtd9AJFkAPoLDpSmlH/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg"
          alt="resume" width="40" height="40"/>
     Resume
   </a>
 </p>
+
 
 
 </p>
