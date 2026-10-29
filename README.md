@@ -1,140 +1,33 @@
-![logo](https://github.com/Rajangupta17/Rajangupta17/blob/main/Banner1.gif)
-<h1 align="center">Hi 👋, I'm Rajan Gupta</h1>
-<h3 align="center">I'm from India</h3>
-<img align="right" alt="Data Analyst" width="400" height="500" src="https://github.com/Rajangupta17/Rajangupta17/blob/main/giphy.gif">
+<h1 align="center">Hi 👋, I'm Rajan Gupta</h1> <h3 align="center">🤖 AI Engineer | Computer Vision • LLMs • RAG • MCP | I train models and ship them</h3> <img align="right" alt="AI Engineer" width="400" height="500" src="https://github.com/Rajangupta17/Rajangupta17/blob/main/giphy.gif">
+👨‍💻 About Me
+🤖 AI Engineer — I build across the AI stack: training deep-learning / computer-vision models and shipping them as deployed, API-driven applications.
+🎓 Completed B.Tech in Computer Science & Engineering with a strong foundation in ML, programming, and problem-solving.
+🛠 Core Skills & Expertise:
+Deep Learning / Computer Vision: YOLOv8, ResNet-50, Transfer Learning, OpenCV
+Generative AI & LLMs: LLM APIs, RAG, LangChain, Model Context Protocol (MCP), Agentic AI
+AI Automation & Workflows: n8n, LLM + RAG workflow automation, Agentic workflows
+Prompt Engineering & AI Optimization: Prompt Engineering, SEO, GEO (Generative Engine Optimization), AEO
+Backend & APIs: Python, Django, Django REST Framework, FastAPI, REST API design
+Databases & Deployment: PostgreSQL, SQL, Git, Render, Cloudflare, CI/CD
+Data Analysis & Visualization: Pandas, NumPy, Power BI, Plotly, Matplotlib, Seaborn
+🚀 Experienced in building end-to-end: from training a model, to a REST/FastAPI service, to a deployed product.
+📌 Currently building with Generative AI — RAG pipelines, LangChain, agentic systems, MCP, and n8n automation.
+👇 My projects are pinned below — computer-vision models and deployed full-stack apps. -⚡ Fun fact Whether on the field 🏏 or in a codebase 💻, I love finding patterns and leading with strategy.
+🧠 Technical Prompt Engineering
+🎯 System & role prompting, few-shot, and chain-of-thought reasoning
+🧩 Structured outputs & function / tool calling for reliable, parseable responses
+📚 RAG prompting — grounding models in retrieved context and managing context windows
+⚙️ Prompt optimization for accuracy, cost, and latency
+🛡 Guardrails & techniques to reduce hallucinations
+🤖 LLMs I Work With
 
-- ## 👨‍💻 About Me
-- 💼 **Passionate Data Analyst** skilled in transforming raw data into actionable insights to support business decisions.  
-- 🎓 Completed **B.Tech in Computer Science & Engineering** with a solid foundation in analytics, programming, and problem-solving.  
-- 🛠 **Core Skills & Expertise:**  
-  - **Data Analysis & Cleaning:** Python (Pandas, NumPy), SQL, Excel  
-  - **Data Visualization & Reporting:** Power BI, Plotly, Matplotlib, Seaborn, Dash  
-  - **Statistical Analysis & EDA:** Hypothesis Testing, Regression, Correlation  
-  - **Python Concepts:** Object-Oriented Programming (OOPs), File Handling  
-  - **Web & Data Applications:** Flask for building interactive dashboards and web-based data applications  
-  - **Tools & Platforms:** Jupyter Notebook, VS Code, Kaggle, Canva  
-- 🚀 Experienced in building projects focused on **Data Analysis, Dashboarding, Business Insights, and Web-based Data Applications**.  
-- 📌 Continuously learning and improving skills in **Machine Learning and Data Science** to enhance practical data analysis capabilities.  
+OpenAI GPT  ·  Anthropic Claude (all models)  ·  Google Gemini  ·  DeepSeek  ·  xAI Grok
 
-   -⚡ Fun fact **Whether on the field 🏏 or in datasets 📊, I love finding patterns and leading with strategy.**
-
-## ✉️ Connect with Me
-
-<p align="left">
-  <!-- Email -->
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rajangupttta9554@gmail.com&su=Hello&body=Hi%20Rajan" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" width="40" height="40"/>
-</a>
-
-</a>
-
-
-
-  &nbsp;&nbsp;&nbsp; <!-- Adds space between icons -->
-
-  <!-- LinkedIn -->
-  <a href="http://www.linkedin.com/in/rajangupta28" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/>
-  </a>
-</p>
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a> 
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-  </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a>
-
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" alt="flask" width="40" height="40"/> 
-  </a>
-  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/>
-  </a>
- 
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/>
-  </a> 
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="excel" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a> 
- <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/>
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a> 
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-  </a>
-
-  </a> 
-</p>
-
-## 📄 My Resume
-
-<p align="left">
-  <a href="https://drive.google.com/file/d/1iRpDQ3Q8kgwuBFFtd9AJFkAPoLDpSmlH/view?usp=drivesdk" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg"
-         alt="resume" width="40" height="40"/>
-    Resume
-  </a>
-</p>
-
-
-
-</p>
-
-## 💻 My Portfolio
-
-<p align="left">
-  <a href="https://datascienceportfol.io/datarajan" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="portfolio" width="30" height="30"/> Portfolio
-  </a>
-</p>
-
-
+✉️ Connect with Me
+<p align="left"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rajangupttta9554@gmail.com&su=Hello&body=Hi%20Rajan" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp; <a href="http://www.linkedin.com/in/rajangupta28" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30"/> </a> </p> <h3 align="left">Languages & Tools:</h3> <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" alt="flask" width="40" height="40"/></a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/></a> <a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/n8n.svg" alt="n8n" width="38" height="38"/></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" alt="plotly" width="40" height="40"/></a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg" alt="render" width="38" height="38"/></a> <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="cloudflare" width="40" height="40"/></a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/></a> <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle" width="40" height="40"/></a> </p>
+📊 My GitHub Stats
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajangupta17&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajangupta17&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/> </p> <p align="center"> <img width="60%" src="https://streak-stats.demolab.com/?user=Rajangupta17&theme=tokyonight&hide_border=true" alt="streak"/> </p>
+📄 My Resume
+<p align="left"> <a href="https://drive.google.com/file/d/1iRpDQ3Q8kgwuBFFtd9AJFkAPoLDpSmlH/view?usp=drivesdk" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobeacrobatreader.svg" alt="resume" width="40" height="40"/> Resume </a> </p>
+💻 My Portfolio
+<p align="left"> <a href="https://datascienceportfol.io/datarajan" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" alt="portfolio" width="30" height="30"/> Portfolio </a> </p>
